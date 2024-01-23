@@ -1,1 +1,1 @@
-This is a file created inside of git website that just needs to be edited by someone else 
+This is a file created inside of git website that just needs to be edited by someone else, and it was edited by one more person
